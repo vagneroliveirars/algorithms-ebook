@@ -3,7 +3,7 @@ package chapter1.question1;
 public class IsUniqueChars2 {
 
 	public static void main(String[] args) {
-		boolean isUniqueChars = isUniqueChars2("test");
+		isUniqueChars2("test");
 	}
 
 	public static boolean isUniqueChars2(String str) {
